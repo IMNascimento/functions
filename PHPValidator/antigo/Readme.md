@@ -9,4 +9,4 @@ cada campo tem que ser na sequencia igual foi feito com os campos.</h4>
 acessado por chave que é o nome do array e o nome do campo. Pois o array é associativo
 ou a utilização da função extract para transforma as chaves em variaveis
 </h4>
-<h4>check($x,$y,$z) a variavel y é os seus campos post e as </h4>
+<h4>check($x,$y,$z) a variavel x é seu post a y é o array com nome dos campos que você espera no post, e o z é os tipos de dados que você espera. </h4>
