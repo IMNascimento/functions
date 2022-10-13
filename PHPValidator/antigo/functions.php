@@ -24,7 +24,7 @@ function check($array, $campos, $tip){
     $d = "<br><b>". $e . "</b><br />";
     LogErrorTxt($e);
     LogErrorHTML($d);
-    header('Location: /functioncheck/trabalho/index.html');
+    header('Location: /');
   }
 }
 function Valide($tipo, $valor){
