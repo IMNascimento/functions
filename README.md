@@ -22,6 +22,10 @@ funções em diversas linguagem
 >> Mostra o tempo aproximado que demorou a execução da sua aplicação ou bloco de código ou funções e classes do sistema.
 >> Linguagem `PHP`.
 >
+> # ConvertText
+>
+>>Escreve um texto com uma tag especifica e troca ela por outra para formatações de textos HTML e MARKDOWN
+>> Linguagem `PHP`
 
 
 - Todos as funções tem um exemplo de implementação.
