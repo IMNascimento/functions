@@ -26,7 +26,17 @@ funções em diversas linguagem
 >
 >>Escreve um texto com uma tag especifica e troca ela por outra para formatações de textos HTML e MARKDOWN
 >> Linguagem `PHP`
-
+>
+> # Gerador CSV.
+>
+>> Gera arquivo .csv a partir de dados coletados do banco passado para a classe.
+>> Linguagem `PHP`.
+>
+> # Criptografia.
+>
+>> Criptografa dados e array em php podendo ser usado vários tipos de cifras.
+>> Linguagem `PHP`.
+>
 
 - Todos as funções tem um exemplo de implementação.
 - Todas as funções foram desenvolvidas como projetos iniciais, podendo ser melhoradas respectivamente com padrões de projetos e Orientação a Objeto
